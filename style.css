@@ -4,5 +4,9 @@ html{
     background-color: aliceblue;
     font-family: 'Courier New', Courier, monospace;
     border: 1px solid black;
+<<<<<<< HEAD
     text-decoration: none;
+=======
+    font-size: 10px;
+>>>>>>> style
 }
