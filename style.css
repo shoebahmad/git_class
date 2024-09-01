@@ -1,4 +1,7 @@
 html{
     color:red;
     text-align: center;
+    background-color: aliceblue;
+    font-family: 'Courier New', Courier, monospace;
+    border: 1px solid black;
 }
